@@ -6,8 +6,8 @@
     { "url": "https://s.url99.me/bckwekxd", "active": true, "weight": 1 },
     { "url": "https://s.url99.me/7y2i2eve", "active": true, "weight": 1 },
     { "url": "https://s.url99.me/k76n9hag", "active": true, "weight": 1 },
-    { "url": "https://s.url99.me/ghinf5ea", "active": true, "weight": 1 },
-    { "url": "https://s.url99.me/mex7wjoz", "active": true, "weight": 1 },
+    { "url": "https://s.url99.me/ghinf5ea", "active": false, "weight": 1 },
+    { "url": "https://s.url99.me/mex7wjoz", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/v448l2im", "active": false, "weight": 1 },
     { "url": "https://s.url99.me/n4tcgx7y", "active": false, "weight": 1 }
   ]
@@ -15,4 +15,5 @@
 
 
 }
+
 
